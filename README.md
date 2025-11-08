@@ -34,7 +34,7 @@ Durante o curso, foram propostas duas modalidades principais de prática:
   Exercícios práticos para aplicar comandos SQL de manipulação e definição de dados.
 
 - **🧱 Desafios de Projeto:**  
-  Construção de modelos conceituais e físicos de banco de dados aplicados a cenários reais (como e-commerce, universidade ordem de serviço...).
+  Construção de modelos conceituais e físicos de banco de dados aplicados a cenários reais (como e-commerce, universidade, ordem de serviço...).
 
 ---
 
