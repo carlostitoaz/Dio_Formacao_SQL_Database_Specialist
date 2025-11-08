@@ -1,21 +1,34 @@
-# 🧩 Primeito Desafio de Projeto
+# 🧩 **Primeiro Desafio de Projeto**
 
-### 🎯 Objetivo 
-Refinar um Projeto Conceitual de Banco de Dados - E-COMMERCE
+## 🎯 **Objetivo**  
+Refinar o **Modelo Conceitual de Banco de Dados** para um sistema de **E-Commerce**.
 
-## ✅ Pontos a serem considerados
+---
 
-- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-- Entrega – Possui status e código de rastreio;
+## ✅ **Pontos a serem considerados**
 
-# Diagrama E-Commerce
-![](img/e-commerce.png)
+- **Cliente (PJ e PF):**  
+  Cada conta pode ser **Pessoa Jurídica (PJ)** ou **Pessoa Física (PF)**, mas **não pode ter ambas as informações** ao mesmo tempo.  
 
-## Outros Diagramas Desenvolvidos 
+- **Pagamento:**  
+  O cliente pode possuir **mais de uma forma de pagamento cadastrada**.  
 
-# Diagrama Universidade
-![](img/universidade.png)
+- **Entrega:**  
+  Cada pedido deve conter **status de entrega** e **código de rastreamento**.
 
-# Diagrama Ordem de Serviço
-![](img/ordem_servico.png)
+---
+
+## 🗂️ **Diagramas Desenvolvidos**
+
+### 🛒 **Diagrama E-Commerce**
+![Diagrama E-Commerce](img/e-commerce.png)
+
+---
+
+### 🎓 **Diagrama Universidade**
+![Diagrama Universidade](img/universidade.png)
+
+---
+
+### 🧰 **Diagrama Ordem de Serviço**
+![Diagrama Ordem de Serviço](img/ordem_servico.png)
