@@ -23,7 +23,7 @@ Durante o curso, aprofundei meus conhecimentos em modelagem conceitual, DDL/DML 
 Cada pasta contém um desafio de projeto prático, com diagramas e scripts SQL desenvolvidos ao longo da formação:
 
 - [🔗 01 - Desafio de Projeto](./01%20-%20Desafio%20de%20Projeto)
-
+- [🔗 02 - Desafio de Projeto](./02%20-%20Desafio%20de%20Projeto)
 ---
 
 ## 🧩 Atividades Realizadas
